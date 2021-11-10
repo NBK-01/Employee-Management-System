@@ -18,7 +18,7 @@ const promptMessages = {
 const connection = mysql.createConnection({
     host: 'localhost',
     user: 'root',
-    password: 'Nayef2003',
+    password: '',
     database: 'employeeDB'
 });
 
