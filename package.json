@@ -1,5 +1,25 @@
 {
   "dependencies": {
-    "inquirer": "^8.2.0"
-  }
+    "console.table": "^0.10.0",
+    "express": "^4.17.1",
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.3-rc.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "employee-management-system",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NBK-01/Employee-Management-System.git"
+  },
+  "author": "NBK-01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NBK-01/Employee-Management-System/issues"
+  },
+  "homepage": "https://github.com/NBK-01/Employee-Management-System#readme"
 }
