@@ -11,9 +11,19 @@
 ## Description <a name="description"></a>
 This is a terminal based CMS app which runs using mainly Inquirer and SQL. Users are able to view employees from thier database, add employees, filter employees, and much more. This program can only be used on a local terminal at the moment.
 ## Installation Guide <a name="install"></a>
-- npm init - npm i - mysql -u root -p - source schema.sql - source seeds.sql
+- npm init 
+- npm i
+- mysql -u root -p 
+- source schema.sql 
+- source seeds.sql
+
 ## Usage Guide <a name="usage"></a>
 After running the commands above then users will be able to follow along easily.
+
+![Screenshot 2021-11-10 045346](https://user-images.githubusercontent.com/73779089/141036419-0808b2a9-6b4a-44d2-aff9-acb285e3849f.png)
+
+![Screenshot 2021-11-10 045457](https://user-images.githubusercontent.com/73779089/141036434-259e81e9-3ded-4836-ba78-7ebebc154e93.png)
+
 ## Testing Guide <a name="test"></a>
 NA
 ## Contributions <a name="contribution"></a>
