@@ -32,7 +32,7 @@ VALUES
     ('Analystics'),
     ('Marketing'),
     ('Executive');
-INSERT INTO role
+    INSERT INTO role
     (title, salary, department_id)
 VALUES
     ('General Manager', 11000000, 1),
